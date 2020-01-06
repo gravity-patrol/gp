@@ -26,7 +26,7 @@ The solution has to be created in the C programming language and submitted in th
 
 Your code will be compiled with the following command:
 
-`$ gcc -Wall -std=C11 echoserver.c -o echoserver`
+`$ gcc -Wall -std=C11 -pedantic echoserver.c -o echoserver`
 
 C11 is the minimum C standard revision that is required for this solution but newer versions are acceptable too. If you'd like to use a newer version please indicate this upon submission. Note that only ANSI C is allowed, no GNU extensions or similar.
 
