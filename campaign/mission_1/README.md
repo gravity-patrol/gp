@@ -67,7 +67,7 @@ Points will be deducted as follows:
 * 1 point for each security vulnerability
 * 1 point for each deviation from the requirements
 * 1 point for larger idiomatic violations
-* 1 point for each invocation of undefined behaviour
+* 1 point for each invocation or potential invocation of undefined behaviour
 
 A positive overall score will be rewarded; likewise a negative score will be sanctioned appropriately.
 
