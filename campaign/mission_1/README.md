@@ -60,6 +60,9 @@ Points will be awarded as follows:
 * 5 points for a generally working solution
 * 4 points for a solution that accepts (and handles correctly) arbitrary input sizes.
 * 1 point for a solution that is less than 100 loc (not counting empty lines and comments)
+* 1 point for delivering a solution within 48 hours of this commit
+* 1 point for delivering a solution within 24 hours of this commit
+* 2 points for delivering a solution within 12 hours of this commit
 
 Points will be deducted as follows:
 * 1 point for every warning emitted upon compilation
