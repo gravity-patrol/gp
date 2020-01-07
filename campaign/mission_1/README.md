@@ -14,7 +14,7 @@ This server should after launching:
 
 It is acceptable though discouraged to impose a reasonable limit to the maximum input size the server will handle.
 
-Note that handling a single client connection at a time is sufficient. Concurrency is not needed at this point. However, the server must accept multiple connections in sequence.
+Note that handling a single client connection at a time is sufficient. Concurrency is not needed at this point. However, the server must continously accept connections in sequence.
 
 Read this instructions carefully. And take care! This implementation will serve as the basis for further missions.
 
