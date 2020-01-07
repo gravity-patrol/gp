@@ -72,5 +72,5 @@ Points will be deducted as follows:
 * 1 point for larger idiomatic violations
 * 1 point for each invocation or potential invocation of undefined behaviour
 
-A positive overall score will be rewarded; likewise a negative score will be sanctioned appropriately.
+A positive overall score will be [rewarded](https://imgur.com/gallery/T0EERxW); likewise a negative score will be [sanctioned](https://i.pinimg.com/originals/38/a9/f3/38a9f38f88a2c65f6bbb6c9149885349.gif) appropriately.
 
