@@ -13,3 +13,7 @@ char c[sizeof(a) + sizeof(b)];
 memcat(a, b, c, sizeof(a), sizeof(b), sizeof(c));
 ```
 
+## Bonus questions
+
+* In the example above: what is the eventual content of `c`?
+* What would `printf(c)` output? Why?
