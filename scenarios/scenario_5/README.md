@@ -10,6 +10,6 @@ char a[] = "Hello ";
 char b[] = "World";
 char c[sizeof(a) + sizeof(b)];
 
-memconcat(a, b, c, sizeof(a), sizeof(b), sizeof(c));
+memcat(a, b, c, sizeof(a), sizeof(b), sizeof(c));
 ```
 
